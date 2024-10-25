@@ -1,0 +1,2897 @@
+/* Desktop */
+
+position: relative;
+width: 1920px;
+height: 1080px;
+
+background: #0E0E0E;
+border-radius: 40px;
+
+
+/* Background */
+
+position: absolute;
+width: 1484px;
+height: 1080px;
+left: 436px;
+top: 0px;
+
+background: linear-gradient(90deg, rgba(0, 0, 0, 0) 73.01%, rgba(15, 15, 15, 0.6) 73.01%), linear-gradient(180deg, #4C0000 0%, #0A0A0A 100%);
+
+
+/* Logo */
+
+position: absolute;
+width: 311px;
+height: 64px;
+left: 70px;
+top: 26px;
+
+
+
+/* Logo */
+
+position: absolute;
+width: 64px;
+height: 64px;
+left: 70px;
+top: 26px;
+
+
+
+/* Group */
+
+position: absolute;
+left: 12.5%;
+right: 18.75%;
+top: 7.03%;
+bottom: 6.26%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 18.75%;
+top: 7.03%;
+bottom: 6.26%;
+
+/* Vermelho */
+background: linear-gradient(122.33deg, #FF5353 30.62%, #E91E1E 100%);
+
+
+/* DreamMusic */
+
+position: absolute;
+width: 231px;
+height: 54px;
+left: 150px;
+top: 31px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 36px;
+line-height: 54px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+color: #FF5656;
+
+
+
+/* Top menu */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 50px;
+
+position: absolute;
+width: 368px;
+height: 27px;
+left: 519px;
+top: 45px;
+
+
+
+/* Music */
+
+width: 54px;
+height: 27px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 27px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+/* Texto - Escuro */
+color: #F6F6F6;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Podcast */
+
+width: 75px;
+height: 27px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 27px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+color: #E5DDDD;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Live */
+
+width: 36px;
+height: 27px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 27px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+color: #E5DDDD;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Radio */
+
+width: 53px;
+height: 27px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 27px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+color: #E5DDDD;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Menu */
+
+position: absolute;
+width: 366px;
+height: 203.43px;
+left: 70px;
+top: 155px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 3.73%;
+right: 94.93%;
+top: 17.28%;
+bottom: 80.48%;
+
+background: linear-gradient(122.33deg, #FF5353 30.62%, #E91E1E 100%);
+
+
+/* Vector */
+
+position: absolute;
+left: 3.72%;
+right: 94.91%;
+top: 22.06%;
+bottom: 76.35%;
+
+background: linear-gradient(122.33deg, #FF5353 30.62%, #E91E1E 100%);
+
+
+/* Vector */
+
+position: absolute;
+left: 3.77%;
+right: 95.03%;
+top: 26.36%;
+bottom: 71.34%;
+
+background: linear-gradient(122.33deg, #FF5353 30.62%, #E91E1E 100%);
+
+
+/* Vector */
+
+position: absolute;
+left: 3.74%;
+right: 94.94%;
+top: 30.84%;
+bottom: 66.81%;
+
+background: linear-gradient(122.33deg, #FF5353 30.62%, #E91E1E 100%);
+
+
+/* Home */
+
+position: absolute;
+width: 54px;
+height: 27px;
+left: 119px;
+top: 184.24px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 27px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+/* Texto - Escuro */
+color: #F6F6F6;
+
+
+
+/* Trends */
+
+position: absolute;
+width: 62px;
+height: 27px;
+left: 119px;
+top: 233.24px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 27px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+/* Texto - Escuro */
+color: #F6F6F6;
+
+
+
+/* Library */
+
+position: absolute;
+width: 62px;
+height: 27px;
+left: 119px;
+top: 282.24px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 27px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+/* Texto - Escuro */
+color: #F6F6F6;
+
+
+
+/* Discover */
+
+position: absolute;
+width: 78px;
+height: 27px;
+left: 119px;
+top: 331.24px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 27px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+/* Texto - Escuro */
+color: #F6F6F6;
+
+
+
+/* Menu */
+
+position: absolute;
+width: 366px;
+height: 17.06px;
+left: 70px;
+top: 155px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 21px;
+display: flex;
+align-items: center;
+text-transform: uppercase;
+
+color: #CFC5C5;
+
+
+
+/* Discover */
+
+position: absolute;
+visibility: hidden;
+width: 366px;
+height: 161px;
+left: 70px;
+top: 427px;
+
+
+
+/* Discover */
+
+position: absolute;
+width: 366px;
+height: 21px;
+left: 70px;
+top: 427px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 21px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-transform: uppercase;
+
+color: #CFC5C5;
+
+
+
+/* Playlists */
+
+position: absolute;
+width: 24.17px;
+height: 19.33px;
+left: 72.42px;
+top: 467.83px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 3.77%;
+right: 94.97%;
+top: 43.32%;
+bottom: 54.89%;
+
+background: linear-gradient(122.33deg, #FF5353 30.62%, #E91E1E 100%);
+
+
+/* Vector */
+
+position: absolute;
+left: 3.77%;
+right: 95.35%;
+top: 43.88%;
+bottom: 55%;
+
+background: linear-gradient(122.33deg, #FF5353 30.62%, #E91E1E 100%);
+
+
+/* Vector */
+
+position: absolute;
+left: 3.77%;
+right: 94.97%;
+top: 47.63%;
+bottom: 50.13%;
+
+background: linear-gradient(122.33deg, #FF5353 30.62%, #E91E1E 100%);
+
+
+/* Daily Mix */
+
+position: absolute;
+width: 24.17px;
+height: 24.17px;
+left: 72.42px;
+top: 563.42px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 3.77%;
+right: 95.22%;
+top: 52.62%;
+bottom: 45.59%;
+
+background: linear-gradient(122.33deg, #FF5353 30.62%, #E91E1E 100%);
+
+
+/* Vector */
+
+position: absolute;
+left: 4.15%;
+right: 94.97%;
+top: 52.17%;
+bottom: 46.27%;
+
+background: linear-gradient(122.33deg, #FF5353 30.62%, #E91E1E 100%);
+
+
+/* Vector */
+
+position: absolute;
+left: 4.07%;
+right: 95.69%;
+top: 53.78%;
+bottom: 45.88%;
+
+background: linear-gradient(122.33deg, #FF5353 30.62%, #E91E1E 100%);
+
+
+/* Vector */
+
+position: absolute;
+left: 4.26%;
+right: 95.69%;
+top: 53.11%;
+bottom: 46.05%;
+
+background: linear-gradient(122.33deg, #FF5353 30.62%, #E91E1E 100%);
+
+
+/* Vector */
+
+position: absolute;
+left: 4.26%;
+right: 95.5%;
+top: 52.96%;
+bottom: 46.72%;
+
+background: linear-gradient(122.33deg, #FF5353 30.62%, #E91E1E 100%);
+
+
+/* Playlists */
+
+position: absolute;
+width: 74px;
+height: 27px;
+left: 119px;
+top: 463px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 27px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+/* Texto - Escuro */
+color: #F6F6F6;
+
+
+
+/* Podcasts */
+
+position: absolute;
+width: 84px;
+height: 27px;
+left: 119px;
+top: 512px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 27px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+/* Texto - Escuro */
+color: #F6F6F6;
+
+
+
+/* Daily Mix */
+
+position: absolute;
+width: 80px;
+height: 27px;
+left: 119px;
+top: 561px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 27px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+/* Texto - Escuro */
+color: #F6F6F6;
+
+
+
+/* Your Collection */
+
+position: absolute;
+visibility: hidden;
+width: 366px;
+height: 161px;
+left: 70px;
+top: 650px;
+
+
+
+/* Your Collection */
+
+position: absolute;
+width: 366px;
+height: 21px;
+left: 70px;
+top: 650px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 21px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-transform: uppercase;
+
+color: #CFC5C5;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 3.85%;
+right: 95.02%;
+top: 63.95%;
+bottom: 34.28%;
+
+
+
+/* Favorite Artists */
+
+position: absolute;
+width: 23.32px;
+height: 25.59px;
+left: 74.03px;
+top: 737.42px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 4.11%;
+right: 95.31%;
+top: 68.28%;
+bottom: 30.68%;
+
+background: linear-gradient(122.33deg, #FF5353 30.62%, #E91E1E 100%);
+
+
+/* Vector */
+
+position: absolute;
+left: 3.86%;
+right: 95.05%;
+top: 69.47%;
+bottom: 29.48%;
+
+background: linear-gradient(122.33deg, #FF5353 30.62%, #E91E1E 100%);
+
+
+/* Vector */
+
+position: absolute;
+left: 4.56%;
+right: 94.93%;
+top: 69.73%;
+bottom: 29.35%;
+
+background: #0E0E0E;
+
+
+/* Vector */
+
+position: absolute;
+left: 4.71%;
+right: 95.08%;
+top: 70.08%;
+bottom: 29.65%;
+
+background: #0E0E0E;
+
+
+/* Vector */
+
+position: absolute;
+left: 3.77%;
+right: 94.97%;
+top: 72.93%;
+bottom: 25.06%;
+
+background: linear-gradient(122.33deg, #FF5353 30.62%, #E91E1E 100%);
+
+
+/* Liked Songs */
+
+position: absolute;
+width: 107px;
+height: 27px;
+left: 119px;
+top: 686px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 27px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+/* Texto - Escuro */
+color: #F6F6F6;
+
+
+
+/* Favorite Artists */
+
+position: absolute;
+width: 135px;
+height: 27px;
+left: 119px;
+top: 735px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 27px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+/* Texto - Escuro */
+color: #F6F6F6;
+
+
+
+/* Local */
+
+position: absolute;
+width: 48px;
+height: 27px;
+left: 119px;
+top: 784px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 27px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+/* Texto - Escuro */
+color: #F6F6F6;
+
+
+
+/* General */
+
+position: absolute;
+width: 366px;
+height: 112px;
+left: 70px;
+top: 873px;
+
+
+
+/* General */
+
+position: absolute;
+width: 366px;
+height: 21px;
+left: 70px;
+top: 873px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 21px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-transform: uppercase;
+
+color: #CFC5C5;
+
+
+
+/* Settings */
+
+position: absolute;
+width: 24.17px;
+height: 24.18px;
+left: 72.41px;
+top: 911.42px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 4.31%;
+right: 95.5%;
+top: 85.34%;
+bottom: 14.32%;
+
+background: linear-gradient(122.33deg, #FF5353 30.62%, #E91E1E 100%);
+
+
+/* Vector */
+
+position: absolute;
+left: 3.77%;
+right: 94.97%;
+top: 84.39%;
+bottom: 13.37%;
+
+background: linear-gradient(122.33deg, #FF5353 30.62%, #E91E1E 100%);
+
+
+/* Log Out */
+
+position: absolute;
+width: 21.75px;
+height: 21.75px;
+left: 73.62px;
+top: 961.62px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 3.83%;
+right: 95.6%;
+top: 89.04%;
+bottom: 8.95%;
+
+background: linear-gradient(122.33deg, #FF5353 30.62%, #E91E1E 100%);
+
+
+/* Vector */
+
+position: absolute;
+left: 4.21%;
+right: 95.03%;
+top: 89.49%;
+bottom: 9.4%;
+
+background: linear-gradient(122.33deg, #FF5353 30.62%, #E91E1E 100%);
+
+
+/* Settings */
+
+position: absolute;
+width: 74px;
+height: 27px;
+left: 119px;
+top: 909px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 27px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+/* Texto - Escuro */
+color: #F6F6F6;
+
+
+
+/* Log Out */
+
+position: absolute;
+width: 69px;
+height: 27px;
+left: 119px;
+top: 958px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 27px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+/* Texto - Escuro */
+color: #F6F6F6;
+
+
+
+/* Notifications */
+
+position: absolute;
+visibility: hidden;
+width: 284px;
+height: 267px;
+left: 1566px;
+top: 43px;
+
+
+
+/* Notifications */
+
+position: absolute;
+width: 284px;
+height: 30px;
+left: 1566px;
+top: 43px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+/* Texto - Escuro */
+color: #F6F6F6;
+
+
+
+/* New music */
+
+position: absolute;
+width: 284px;
+height: 60px;
+left: 1566px;
+top: 250px;
+
+
+
+/* Rectangle */
+
+position: absolute;
+width: 60px;
+height: 60px;
+left: 1566px;
+top: 250px;
+
+background: #631A1A;
+border-radius: 15px;
+
+
+/* Vector */
+
+position: absolute;
+left: 82.3%;
+right: 16.13%;
+top: 24.46%;
+bottom: 72.52%;
+
+background: #DC4040;
+
+
+/* Beat It - Michael Jackson */
+
+position: absolute;
+width: 202px;
+height: 21px;
+left: 1648px;
+top: 286px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 21px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+/* Texto - Escuro */
+color: #F6F6F6;
+
+
+
+/* New music */
+
+position: absolute;
+width: 202px;
+height: 27px;
+left: 1648px;
+top: 252px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 27px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+/* Texto - Escuro */
+color: #F6F6F6;
+
+
+
+/* Playlist Added */
+
+position: absolute;
+width: 284px;
+height: 60px;
+left: 1566px;
+top: 93px;
+
+
+
+/* Playlist Added */
+
+position: absolute;
+width: 202px;
+height: 27px;
+left: 1648px;
+top: 96px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 27px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+/* Texto - Escuro */
+color: #F6F6F6;
+
+
+
+/* 200 songs */
+
+position: absolute;
+width: 202px;
+height: 21px;
+left: 1648px;
+top: 130px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 21px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+/* Texto - Escuro */
+color: #F6F6F6;
+
+
+
+/* Rectangle */
+
+position: absolute;
+width: 60px;
+height: 60px;
+left: 1566px;
+top: 93px;
+
+background: #631A1A;
+border-radius: 15px;
+
+
+/* Vector */
+
+position: absolute;
+left: 82.3%;
+right: 16.05%;
+top: 9.92%;
+bottom: 87.15%;
+
+background: #DC4040;
+
+
+/* Playlist Shared */
+
+position: absolute;
+width: 284px;
+height: 60px;
+left: 1566px;
+top: 172px;
+
+
+
+/* Rectangle */
+
+position: absolute;
+width: 60px;
+height: 60px;
+left: 1566px;
+top: 172px;
+
+background: #631A1A;
+border-radius: 15px;
+
+
+/* Vector */
+
+position: absolute;
+left: 82.3%;
+right: 16.05%;
+top: 17.24%;
+bottom: 79.83%;
+
+background: #DC4040;
+
+
+/* To 8 users */
+
+position: absolute;
+width: 200px;
+height: 21px;
+left: 1648px;
+top: 209px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 21px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+/* Texto - Escuro */
+color: #F6F6F6;
+
+
+
+/* Playlist Shared */
+
+position: absolute;
+width: 202px;
+height: 27px;
+left: 1648px;
+top: 175px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 27px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+/* Texto - Escuro */
+color: #F6F6F6;
+
+
+
+/* Options */
+
+position: absolute;
+width: 18px;
+height: 2px;
+left: 1829px;
+top: 54px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 95.26%;
+right: 4.64%;
+top: 5%;
+bottom: 94.81%;
+
+/* Texto - Escuro */
+border: 2px solid #F6F6F6;
+
+
+/* Vector */
+
+position: absolute;
+left: 95.68%;
+right: 4.22%;
+top: 5%;
+bottom: 94.81%;
+
+/* Texto - Escuro */
+border: 2px solid #F6F6F6;
+
+
+/* Vector */
+
+position: absolute;
+left: 96.09%;
+right: 3.8%;
+top: 5%;
+bottom: 94.81%;
+
+/* Texto - Escuro */
+border: 2px solid #F6F6F6;
+
+
+/* Recent playlists */
+
+position: absolute;
+visibility: hidden;
+width: 284px;
+height: 293px;
+left: 1566px;
+top: 345px;
+
+
+
+/* Recent Playlists */
+
+position: absolute;
+width: 284px;
+height: 30px;
+left: 1566px;
+top: 345px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+/* Texto - Escuro */
+color: #F6F6F6;
+
+
+
+/* Group 1 */
+
+position: absolute;
+width: 87px;
+height: 110px;
+left: 1566px;
+top: 395px;
+
+
+
+/* Rectangle 5 */
+
+position: absolute;
+width: 87px;
+height: 86px;
+left: 1566px;
+top: 395px;
+
+background: url(image.png);
+filter: drop-shadow(0px 0px 10px rgba(0, 0, 0, 0.25));
+border-radius: 15px;
+
+
+/* Doing the H... */
+
+position: absolute;
+width: 87px;
+height: 17px;
+left: 1566px;
+top: 488px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 18px;
+text-align: center;
+
+/* Texto - Escuro */
+color: #F6F6F6;
+
+text-shadow: 0px 0px 10px rgba(0, 0, 0, 0.25);
+
+
+/* Group 2 */
+
+position: absolute;
+width: 84px;
+height: 110px;
+left: 1666px;
+top: 395px;
+
+
+
+/* Rectangle 6 */
+
+position: absolute;
+width: 84px;
+height: 86px;
+left: 1666px;
+top: 395px;
+
+background: url(image);
+filter: drop-shadow(0px 0px 10px rgba(0, 0, 0, 0.25));
+border-radius: 15px;
+
+
+/* To Relax */
+
+position: absolute;
+width: 84px;
+height: 17px;
+left: 1666px;
+top: 488px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 18px;
+text-align: center;
+
+/* Texto - Escuro */
+color: #F6F6F6;
+
+text-shadow: 0px 0px 10px rgba(0, 0, 0, 0.25);
+
+
+/* Group 3 */
+
+position: absolute;
+width: 87px;
+height: 110px;
+left: 1763px;
+top: 395px;
+
+
+
+/* Rectangle 7 */
+
+position: absolute;
+width: 87px;
+height: 86px;
+left: 1763px;
+top: 395px;
+
+background: url(image.png);
+filter: drop-shadow(0px 0px 10px rgba(0, 0, 0, 0.25));
+border-radius: 15px;
+
+
+/* Pop World */
+
+position: absolute;
+width: 87px;
+height: 17px;
+left: 1763px;
+top: 488px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 18px;
+text-align: center;
+
+/* Texto - Escuro */
+color: #F6F6F6;
+
+text-shadow: 0px 0px 10px rgba(0, 0, 0, 0.25);
+
+
+/* Group 4 */
+
+position: absolute;
+width: 87px;
+height: 111px;
+left: 1566px;
+top: 527px;
+
+
+
+/* Rectangle 8 */
+
+position: absolute;
+width: 87px;
+height: 87px;
+left: 1566px;
+top: 527px;
+
+background: url(image.png);
+filter: drop-shadow(0px 0px 10px rgba(0, 0, 0, 0.25));
+border-radius: 15px;
+
+
+/* Electric Pop */
+
+position: absolute;
+width: 87px;
+height: 17px;
+left: 1566px;
+top: 621px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 18px;
+text-align: center;
+
+/* Texto - Escuro */
+color: #F6F6F6;
+
+text-shadow: 0px 0px 10px rgba(0, 0, 0, 0.25);
+
+
+/* Group 5 */
+
+position: absolute;
+width: 87px;
+height: 111px;
+left: 1664px;
+top: 527px;
+
+
+
+/* Rectangle 9 */
+
+position: absolute;
+width: 84px;
+height: 87px;
+left: 1666px;
+top: 527px;
+
+background: url(image.png);
+filter: drop-shadow(0px 0px 10px rgba(0, 0, 0, 0.25));
+border-radius: 15px;
+
+
+/* Summer */
+
+position: absolute;
+width: 87px;
+height: 17px;
+left: 1664px;
+top: 621px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 18px;
+text-align: center;
+
+/* Texto - Escuro */
+color: #F6F6F6;
+
+text-shadow: 0px 0px 10px rgba(0, 0, 0, 0.25);
+
+
+/* Group 6 */
+
+position: absolute;
+width: 87px;
+height: 111px;
+left: 1763px;
+top: 527px;
+
+
+
+/* Rectangle 10 */
+
+position: absolute;
+width: 87px;
+height: 87px;
+left: 1763px;
+top: 527px;
+
+background: url(image);
+filter: drop-shadow(0px 0px 10px rgba(0, 0, 0, 0.25));
+border-radius: 15px;
+
+
+/* Sounds of th... */
+
+position: absolute;
+width: 87px;
+height: 17px;
+left: 1763px;
+top: 621px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 18px;
+text-align: center;
+
+/* Texto - Escuro */
+color: #F6F6F6;
+
+text-shadow: 0px 0px 10px rgba(0, 0, 0, 0.25);
+
+
+/* Options */
+
+position: absolute;
+width: 18px;
+height: 2px;
+left: 1829px;
+top: 356px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 95.26%;
+right: 4.64%;
+top: 32.96%;
+bottom: 66.85%;
+
+/* Texto - Escuro */
+border: 2px solid #F6F6F6;
+
+
+/* Vector */
+
+position: absolute;
+left: 95.68%;
+right: 4.22%;
+top: 32.96%;
+bottom: 66.85%;
+
+/* Texto - Escuro */
+border: 2px solid #F6F6F6;
+
+
+/* Vector */
+
+position: absolute;
+left: 96.09%;
+right: 3.8%;
+top: 32.96%;
+bottom: 66.85%;
+
+/* Texto - Escuro */
+border: 2px solid #F6F6F6;
+
+
+/* Play */
+
+position: absolute;
+width: 284px;
+height: 376px;
+left: 1566px;
+top: 673px;
+
+
+
+/* Card */
+
+position: absolute;
+width: 284px;
+height: 376px;
+left: 1566px;
+top: 673px;
+
+background: #6B0000;
+box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.25);
+border-radius: 15px;
+
+
+/* Now Playing */
+
+position: absolute;
+width: 284px;
+height: 21px;
+left: 1566px;
+top: 694px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 21px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-align: center;
+
+/* Texto - Escuro */
+color: #F6F6F6;
+
+
+
+/* Music name */
+
+position: absolute;
+width: 284px;
+height: 47px;
+left: 1566px;
+top: 884px;
+
+
+
+/* Beat It */
+
+position: absolute;
+width: 284px;
+height: 27px;
+left: 1566px;
+top: 884px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 27px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-align: center;
+
+/* Texto - Escuro */
+color: #F6F6F6;
+
+
+
+/* Michael Jackson */
+
+position: absolute;
+width: 284px;
+height: 20px;
+left: 1566px;
+top: 911px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 20px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #CFC5C5;
+
+
+
+/* Pic */
+
+position: absolute;
+width: 239px;
+height: 136px;
+left: 1588px;
+top: 729px;
+
+background: url(image);
+border-radius: 10px;
+
+
+/* Control */
+
+position: absolute;
+width: 224px;
+height: 41px;
+left: 1596px;
+top: 995px;
+
+
+
+/* Play */
+
+position: absolute;
+width: 41px;
+height: 41px;
+left: 1687px;
+top: 995px;
+
+
+
+/* Button */
+
+position: absolute;
+width: 41px;
+height: 41px;
+left: 1687px;
+top: 995px;
+
+background: #480000;
+border-radius: 10px;
+
+
+/* Play */
+
+position: absolute;
+width: 29px;
+height: 29px;
+left: 1693px;
+top: 1001px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 18.75%;
+right: 12.5%;
+top: 12.5%;
+bottom: 12.5%;
+
+/* Texto - Escuro */
+background: #F6F6F6;
+
+
+/* Back */
+
+position: absolute;
+width: 29px;
+height: 29px;
+left: 1673px;
+top: 1001px;
+
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Vector */
+
+position: absolute;
+left: 80%;
+right: -40%;
+top: 20%;
+bottom: 20%;
+
+/* Texto - Escuro */
+background: #F6F6F6;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Next */
+
+position: absolute;
+width: 29px;
+height: 29px;
+left: 1743px;
+top: 1001px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 20%;
+right: 20%;
+top: 20%;
+bottom: 20%;
+
+/* Texto - Escuro */
+background: #F6F6F6;
+
+
+/* Repeat */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 1596px;
+top: 1006px;
+
+
+
+/* Group */
+
+position: absolute;
+left: 8.33%;
+right: 8.35%;
+top: 8.32%;
+bottom: 8.35%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 8.35%;
+top: 8.32%;
+bottom: 8.35%;
+
+/* Texto - Escuro */
+background: #F6F6F6;
+
+
+/* Random */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 1800px;
+top: 1006px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0.01%;
+
+/* Texto - Escuro */
+background: #F6F6F6;
+
+
+/* Playing */
+
+position: absolute;
+width: 239px;
+height: 20px;
+left: 1588px;
+top: 950px;
+
+
+
+/* 2:15 */
+
+position: absolute;
+width: 26px;
+height: 20px;
+left: 1588px;
+top: 950px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 13px;
+line-height: 20px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+color: #F6F6F6;
+
+
+
+/* 4:18 */
+
+position: absolute;
+width: 26px;
+height: 20px;
+left: 1801px;
+top: 950px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 13px;
+line-height: 20px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-align: right;
+
+color: #F6F6F6;
+
+
+
+/* Line 1 */
+
+position: absolute;
+width: 81px;
+height: 0px;
+left: 1625px;
+top: 962px;
+
+/* Texto - Escuro */
+border: 3px solid #F6F6F6;
+
+
+/* Line 2 */
+
+position: absolute;
+width: 88px;
+height: 0px;
+left: 1702px;
+top: 962px;
+
+border: 3px solid rgba(246, 246, 246, 0.5);
+
+
+/* Ellipse 2 */
+
+position: absolute;
+width: 8px;
+height: 8px;
+left: 1700px;
+top: 956px;
+
+background: #6B0000;
+
+
+/* Ellipse 1 */
+
+position: absolute;
+width: 12px;
+height: 12px;
+left: 1698px;
+top: 954px;
+
+/* Texto - Escuro */
+background: #F6F6F6;
+
+
+/* Search */
+
+position: absolute;
+width: 513px;
+height: 54px;
+left: 964px;
+top: 32px;
+
+
+
+/* Rectangle */
+
+position: absolute;
+width: 513px;
+height: 54px;
+left: 964px;
+top: 32px;
+
+background: #2C0000;
+border-radius: 50px;
+
+
+/* Vector */
+
+position: absolute;
+left: 74.45%;
+right: 24.36%;
+top: 4.3%;
+bottom: 93.58%;
+
+/* Texto - Escuro */
+border: 3px solid #F6F6F6;
+
+
+/* Michael Jackson */
+
+position: absolute;
+width: 494px;
+height: 27px;
+left: 983px;
+top: 45px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 27px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+color: #F6F6F6;
+
+
+
+/* Artist */
+
+position: absolute;
+width: 882px;
+height: 452px;
+left: 537px;
+top: 114px;
+
+
+
+/* Pic */
+
+position: absolute;
+width: 882px;
+height: 452px;
+left: 537px;
+top: 114px;
+
+
+
+/* Background */
+
+position: absolute;
+width: 882px;
+height: 343px;
+left: 537px;
+top: 223px;
+
+background: linear-gradient(0deg, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(image.png);
+border-radius: 40px;
+
+
+/* Michael */
+
+position: absolute;
+width: 535px;
+height: 452px;
+left: 801px;
+top: 114px;
+
+background: url(.png);
+
+
+/* Verified */
+
+position: absolute;
+width: 152px;
+height: 30px;
+left: 586px;
+top: 324px;
+
+
+
+/* Verified */
+
+position: absolute;
+width: 30px;
+height: 30px;
+left: 586px;
+top: 324px;
+
+
+
+/* Rectangle 16 */
+
+position: absolute;
+left: 23.08%;
+right: 25.64%;
+top: 28.21%;
+bottom: 23.08%;
+
+/* Texto - Escuro */
+background: #F6F6F6;
+
+
+/* Group */
+
+position: absolute;
+left: 8.19%;
+right: 7.88%;
+top: 8.06%;
+bottom: 8%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 8.19%;
+right: 7.88%;
+top: 8.06%;
+bottom: 8%;
+
+/* Azul */
+background: linear-gradient(122.33deg, #53E0FF 30.62%, #1E94E9 100%);
+
+
+/* Verified Artist */
+
+position: absolute;
+width: 113px;
+height: 28px;
+left: 625px;
+top: 325px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 21px;
+display: flex;
+align-items: center;
+
+color: #CFC5C5;
+
+
+
+/* 27.852.501 monthly listeners */
+
+position: absolute;
+width: 197px;
+height: 21px;
+left: 586px;
+top: 439px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 21px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+/* Texto - Escuro */
+color: #F6F6F6;
+
+
+
+/* Michael Jackson */
+
+position: absolute;
+width: 342px;
+height: 60px;
+left: 586px;
+top: 354px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 60px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+/* Texto - Escuro */
+color: #F6F6F6;
+
+
+
+/* Musics */
+
+position: absolute;
+width: 1084px;
+height: 447px;
+left: 436px;
+top: 606px;
+
+
+
+/* Rectangle */
+
+position: absolute;
+width: 1084px;
+height: 73px;
+left: 436px;
+top: 782px;
+
+background: #520000;
+
+
+/* Playing */
+
+position: absolute;
+width: 33px;
+height: 33px;
+left: 527px;
+top: 802px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 12.5%;
+top: 8.33%;
+bottom: 5.95%;
+
+/* Texto - Escuro */
+background: #F6F6F6;
+
+
+/* Popular */
+
+position: absolute;
+width: 266px;
+height: 36px;
+left: 537px;
+top: 606px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 36px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+/* Texto - Escuro */
+color: #F6F6F6;
+
+
+
+/* Menu */
+
+position: absolute;
+width: 880px;
+height: 27px;
+left: 537px;
+top: 674px;
+
+
+
+/* # */
+
+position: absolute;
+width: 16px;
+height: 27px;
+left: -2px;
+top: 0px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 27px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-transform: uppercase;
+
+color: #CFC5C5;
+
+
+
+/* Title */
+
+position: absolute;
+width: 52px;
+height: 27px;
+left: 131px;
+top: 0px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 27px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-transform: uppercase;
+
+color: #CFC5C5;
+
+
+
+/* Playing */
+
+position: absolute;
+width: 76px;
+height: 27px;
+left: 430px;
+top: 0px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 27px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-transform: uppercase;
+
+color: #CFC5C5;
+
+
+
+/* Time */
+
+position: absolute;
+width: 42px;
+height: 27px;
+left: 616px;
+top: 0px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 27px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-transform: uppercase;
+
+color: #CFC5C5;
+
+
+
+/* Album */
+
+position: absolute;
+width: 62px;
+height: 27px;
+left: 818px;
+top: 0px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 27px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-transform: uppercase;
+
+color: #CFC5C5;
+
+
+
+/* Billie Jean */
+
+position: absolute;
+width: 285px;
+height: 54px;
+left: 668px;
+top: 723px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 27px;
+display: flex;
+align-items: center;
+text-transform: capitalize;
+
+color: #CFC5C5;
+
+
+
+/* Beat It */
+
+position: absolute;
+width: 285px;
+height: 54px;
+left: 668px;
+top: 792px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 27px;
+display: flex;
+align-items: center;
+text-transform: capitalize;
+
+color: #F6F6F6;
+
+
+
+/* Smooth Criminal - 2012 Rema... */
+
+position: absolute;
+width: 285px;
+height: 54px;
+left: 668px;
+top: 861px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 27px;
+display: flex;
+align-items: center;
+text-transform: capitalize;
+
+color: #CFC5C5;
+
+
+
+/* Don't Stop 'Til You Get Enough */
+
+position: absolute;
+width: 285px;
+height: 54px;
+left: 668px;
+top: 930px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 27px;
+display: flex;
+align-items: center;
+text-transform: capitalize;
+
+color: #CFC5C5;
+
+
+
+/* Rock with You - Single Version */
+
+position: absolute;
+width: 285px;
+height: 54px;
+left: 668px;
+top: 999px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 27px;
+display: flex;
+align-items: center;
+text-transform: capitalize;
+
+color: #CFC5C5;
+
+
+
+/* 1.040.811.084 */
+
+position: absolute;
+width: 134px;
+height: 54px;
+left: 968px;
+top: 723px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 27px;
+display: flex;
+align-items: center;
+text-transform: capitalize;
+
+color: #CFC5C5;
+
+
+
+/* 643.786.045 */
+
+position: absolute;
+width: 134px;
+height: 54px;
+left: 968px;
+top: 792px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 27px;
+display: flex;
+align-items: center;
+text-transform: capitalize;
+
+color: #F6F6F6;
+
+
+
+/* 407.234.004 */
+
+position: absolute;
+width: 134px;
+height: 54px;
+left: 968px;
+top: 861px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 27px;
+display: flex;
+align-items: center;
+text-transform: capitalize;
+
+color: #CFC5C5;
+
+
+
+/* 316.391.952 */
+
+position: absolute;
+width: 134px;
+height: 54px;
+left: 968px;
+top: 930px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 27px;
+display: flex;
+align-items: center;
+text-transform: capitalize;
+
+color: #CFC5C5;
+
+
+
+/* 268.187.218 */
+
+position: absolute;
+width: 134px;
+height: 54px;
+left: 968px;
+top: 999px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 27px;
+display: flex;
+align-items: center;
+text-transform: capitalize;
+
+color: #CFC5C5;
+
+
+
+/* 4:53 */
+
+position: absolute;
+width: 156px;
+height: 54px;
+left: 1153px;
+top: 723px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 27px;
+display: flex;
+align-items: center;
+text-transform: capitalize;
+
+color: #CFC5C5;
+
+
+
+/* 4:18 */
+
+position: absolute;
+width: 156px;
+height: 54px;
+left: 1153px;
+top: 792px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 27px;
+display: flex;
+align-items: center;
+text-transform: capitalize;
+
+color: #F6F6F6;
+
+
+
+/* 4:17 */
+
+position: absolute;
+width: 156px;
+height: 54px;
+left: 1153px;
+top: 861px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 27px;
+display: flex;
+align-items: center;
+text-transform: capitalize;
+
+color: #CFC5C5;
+
+
+
+/* 6:05 */
+
+position: absolute;
+width: 156px;
+height: 54px;
+left: 1153px;
+top: 930px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 27px;
+display: flex;
+align-items: center;
+text-transform: capitalize;
+
+color: #CFC5C5;
+
+
+
+/* 3:40 */
+
+position: absolute;
+width: 156px;
+height: 54px;
+left: 1153px;
+top: 999px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 27px;
+display: flex;
+align-items: center;
+text-transform: capitalize;
+
+color: #CFC5C5;
+
+
+
+/* Thriller 25 Sup... */
+
+position: absolute;
+width: 149px;
+height: 54px;
+left: 1267px;
+top: 723px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 27px;
+display: flex;
+align-items: center;
+text-align: right;
+text-transform: capitalize;
+
+color: #CFC5C5;
+
+
+
+/* Thriller 25 Sup... */
+
+position: absolute;
+width: 149px;
+height: 54px;
+left: 1267px;
+top: 792px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 27px;
+display: flex;
+align-items: center;
+text-align: right;
+text-transform: capitalize;
+
+color: #F6F6F6;
+
+
+
+/* Thriller 25 Sup... */
+
+position: absolute;
+width: 149px;
+height: 54px;
+left: 1267px;
+top: 861px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 27px;
+display: flex;
+align-items: center;
+text-align: right;
+text-transform: capitalize;
+
+color: #CFC5C5;
+
+
+
+/* Bad 25th Anni... */
+
+position: absolute;
+width: 149px;
+height: 54px;
+left: 1267px;
+top: 930px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 27px;
+display: flex;
+align-items: center;
+text-align: right;
+text-transform: capitalize;
+
+color: #CFC5C5;
+
+
+
+/* Off the Wall */
+
+position: absolute;
+width: 149px;
+height: 54px;
+left: 1267px;
+top: 999px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 27px;
+display: flex;
+align-items: center;
+text-align: right;
+text-transform: capitalize;
+
+color: #CFC5C5;
+
+
+
+/* 1 */
+
+position: absolute;
+width: 11px;
+height: 54px;
+left: 537px;
+top: 723px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 27px;
+display: flex;
+align-items: center;
+text-transform: uppercase;
+
+/* Texto - Escuro */
+color: #F6F6F6;
+
+
+
+/* 3 */
+
+position: absolute;
+width: 11px;
+height: 54px;
+left: 537px;
+top: 861px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 27px;
+display: flex;
+align-items: center;
+text-transform: uppercase;
+
+/* Texto - Escuro */
+color: #F6F6F6;
+
+
+
+/* 4 */
+
+position: absolute;
+width: 12px;
+height: 54px;
+left: 537px;
+top: 930px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 27px;
+display: flex;
+align-items: center;
+text-transform: uppercase;
+
+/* Texto - Escuro */
+color: #F6F6F6;
+
+
+
+/* 5 */
+
+position: absolute;
+width: 12px;
+height: 54px;
+left: 537px;
+top: 999px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 27px;
+display: flex;
+align-items: center;
+text-transform: uppercase;
+
+/* Texto - Escuro */
+color: #F6F6F6;
+
+
+
+/* See All */
+
+position: absolute;
+width: 266px;
+height: 27px;
+left: 1153px;
+top: 611px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 27px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-align: right;
+
+color: #CFC5C5;
+
+
+
+/* 1 */
+
+position: absolute;
+width: 54px;
+height: 54px;
+left: 590px;
+top: 723px;
+
+background: url(image.png);
+
+
+/* 2 */
+
+position: absolute;
+width: 54px;
+height: 54px;
+left: 590px;
+top: 792px;
+
+background: url(image.png);
+
+
+/* 3 */
+
+position: absolute;
+width: 54px;
+height: 54px;
+left: 590px;
+top: 861px;
+
+background: url(image.png);
+
+
+/* 4 */
+
+position: absolute;
+width: 54px;
+height: 54px;
+left: 590px;
+top: 930px;
+
+background: url(image);
+
+
+/* 5 */
+
+position: absolute;
+width: 54px;
+height: 54px;
+left: 590px;
+top: 999px;
+
+background: url(image);
+
+
+/* Rectangle */
+
+position: absolute;
+width: 7px;
+height: 73px;
+left: 436px;
+top: 782px;
+
+background: #CA0000;
