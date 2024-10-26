@@ -10,7 +10,7 @@ app.use(cors());
 app.use(express.json());
 
 // Route to get Spotify access token
-
+app.get('/', (req, res) => res.send('Home Page Route'));
 // Function to get access token
 async function getAccessToken() {
     const response = await axios.post('https://accounts.spotify.com/api/token', 
