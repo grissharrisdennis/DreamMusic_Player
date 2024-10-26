@@ -5,7 +5,7 @@ import searchIcon from './assets/search.svg'
 import verifyIcon from './assets/verfiy.svg'
 import Songcard from './components/Songcard';
 import ErrorBoundary from './components/Errorb'
-require('dotenv').config();
+
 
 const Musicplayer = () => {
 const [topTracks, setTopTracks] = useState([]);
