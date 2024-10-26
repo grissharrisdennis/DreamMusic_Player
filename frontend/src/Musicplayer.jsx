@@ -5,7 +5,7 @@ import searchIcon from './assets/search.svg'
 import verifyIcon from './assets/verfiy.svg'
 import Songcard from './components/Songcard';
 import ErrorBoundary from './components/Errorb'
-
+require('dotenv').config();
 
 const Musicplayer = () => {
 const [topTracks, setTopTracks] = useState([]);
@@ -17,7 +17,7 @@ const [artistData, setArtistData] = useState(null);
   useEffect(() => {
     async function fetchTracks() {
       try {
-        const response = await fetch('http://localhost:3000/api/top-tracks');
+        const response = await fetch(`${process.env.REACT_APP_BACKEND_SERVER}api/top-tracks`);
         const data = await response.json();
         setTopTracks(data);
       } catch (error) {
@@ -49,7 +49,7 @@ const [artistData, setArtistData] = useState(null);
   const handleSearch = async () => {
     console.log(searchQuery)
     try {
-      const response = await fetch(`http://localhost:3000/api/search?q=${searchQuery}`);
+      const response = await fetch(`${process.env.REACT_APP_BACKEND_SERVER}api/search?q=${searchQuery}`);
       const data = await response.json();
       console.log(data)
       // if (data && data.tracks) {
