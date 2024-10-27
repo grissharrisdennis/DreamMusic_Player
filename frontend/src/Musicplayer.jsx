@@ -17,7 +17,7 @@ const [artistData, setArtistData] = useState(null);
   useEffect(() => {
     async function fetchTracks() {
       try {
-        const response = await fetch(`${process.env.REACT_APP_BACKEND_SERVER}api/top-tracks`);
+        const response = await fetch(`${import.meta.env.VITE_APP_BACKEND_SERVER}api/top-tracks`);
         const data = await response.json();
         setTopTracks(data);
       } catch (error) {
@@ -49,7 +49,7 @@ const [artistData, setArtistData] = useState(null);
   const handleSearch = async () => {
     console.log(searchQuery)
     try {
-      const response = await fetch(`${process.env.REACT_APP_BACKEND_SERVER}api/search?q=${searchQuery}`);
+      const response = await fetch(`${import.meta.env.VITE_APP_BACKEND_SERVER}api/search?q=${searchQuery}`);
       const data = await response.json();
       console.log(data)
       // if (data && data.tracks) {
