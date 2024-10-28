@@ -48,6 +48,8 @@ async function getAccessToken() {
   // Route to fetch top tracks
   app.get('/api/top-tracks', async (req, res) => {
     try {
+      console.log(process.env.SPOTIFY_CLIENT_ID)
+      console.log(process.env.SPOTIFY_CLIENT_SECRET)
       const token = await getAccessToken();
       const response = await axios.get('https://api.spotify.com/v1/artists/0TnOYISbd1XYRBk9myaseg/top-tracks?market=US', {
         headers: {
